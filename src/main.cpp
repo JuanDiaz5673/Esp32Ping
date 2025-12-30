@@ -5,8 +5,8 @@
 #include <ESP32Ping.h>
 #include "web_pages.h"
 
-const char* ssid = "ARRIS-D539";
-const char* password = "5G5344101973";
+const char* ssid = "SSID_Name";
+const char* password = "PASSWORD";
 
 WebServer server(80);
 
